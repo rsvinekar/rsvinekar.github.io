@@ -1,2 +1,0 @@
-# rsvinekar.github.io
-portfolio
