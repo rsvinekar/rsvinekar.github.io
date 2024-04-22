@@ -1,0 +1,73 @@
+Employment History
+
+Scientist (Senior Specialist) 
+Quantumzyme LLC, 
+Bengaluru
+
+01 2022 — 11 2022
+
+Principal Investigator (Project leader) for 2 projects
+Utilised molecular dynamics and data science to predict mutations that improve the functionality of enzymes for industrial purposes.
+System administrator and server upgrade was carried out
+Created templates for cost analysis for projects, stoichiometry and biochemical Route of Synthesis analysis for various ideation projects
+
+===================
+
+Application Scientist
+Quantumzyme LLC, 
+Bengaluru
+
+09 2017 — 08 2020
+
+Principal Investigator  (Project leader) for 4 projects. 
+Utilised molecular dynamics and data science to predict mutations that improve the functionality of enzymes for industrial purposes.
+Created benchmark presentation for BioCat conference, which contributed to bringing new customers to  Quantumzyme
+Awarded Certificate of Appreciation “Above & Beyond”.
+Achieved 95% increase in enzyme activity for one mutant in project QZ1803 – SmSDR. A provisional patent was filed for the same. Predicted mutant results led initiation of a new project with a new collaborator and funding using that mutant as base
+Coupled Individual GPU workstations into a heterogeneous cluster with SLURM job scheduler, common NAS storage leading to easier management and utilisation of resources in  multiuser environment
+Benchmarked and tweaked the cluster to obtain the best scheduling policies leading to a 40-80% speedup in GPU usage by enforcing single job per GPU and preventing parallel usage. Benchmarks showed that nVidia GPU could not multitask efficiently 
+
+===================
+
+Post-doctoral Researcher
+National Centre for Biological Sciences, Dr Uma Ramakrishnan Lab 3
+Bengaluru
+03 2017 — 11 2017 : 
+Streamlined the pipeline for analysis of the tiger genome, which utilised SoapDenovo and Samtools
+
+Post-doctoral Researcher 
+National Centre for Biological Sciences, Dr R. Sowdhamini Lab 25
+Bengaluru
+09 2014 — 03 2017 : 
+
+Molecular Modelling was used to predict structure of Transmembrane Channels protein resulting in  1 publication. 
+Contributed to a collaborative lab project on Plant Genomics, contributed to Protein ontology resulting in 1 publication. 
+Worked on one transmembrane channel sodium channel transporter HKT of rice in collaboration. 
+
+Education
+
+Ph.D, Computational Biology & Bioinformatics
+Jawaharlal Nehru University (JNU) SC&IS, New Delhi, India
+06 2014
+Molecular Simulations analysis of Enzyme Regulation, Antigen binding
+Workplace and funding: 
+
+Bioinformatics Centre, University of Pune – DBT Fellowship
+SC&IS at Jawaharlal Nehru University, New Delhi under Prof. Indira Ghosh – DBT Fellowship
+Bioinformatics Institute (BII), A*STAR, Biopolis, Singapore under Dr Chandra Verma – A*STAR funding
+
+Masters in Science (MSc.) Bioinformatics, 
+University of Pune, Pune, India
+06 2003 — 03 2005
+GPA:7.39  IGIB G N Ramachandran Fellowship
+
+Bachelor of Engineering (BE), 
+Dwarkadas J Sanghvi College of Engg., 
+Mumbai
+06 1998 — 04 2002
+Biomedical Engineering. First Class. 
+	Higher Secondary Certificate (HSC), St Xavier's College, Mumbai
+	June 1998
+University of Mumbai  Overall:83.5% PCM:90%
+	Secondary School Certificate (SSC), St Xavier's High School, Fort, Mumbai
+	June 1996. 80.4%
